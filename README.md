@@ -25,5 +25,12 @@ This repository contains a fine-tuned machine learning model for catalyst analys
    ```bash
    cd app
    use flutter plugin vscode to build for any platform
+   first download visual studio tools
+   https://visualstudio.microsoft.com/downloads/?q=build+tools
+   https://visualstudio.microsoft.com/visual-cpp-build-tools/
+   flutter doctor
+   flutter run
+   1 for windows
+   
 
 ![Backend Flow](app.png)
