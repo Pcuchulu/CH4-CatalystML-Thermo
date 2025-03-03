@@ -17,10 +17,13 @@ This repository contains a fine-tuned machine learning model for catalyst analys
    - Install required Python packages:
      ```bash
      pip install -r requirements.txt
+     python ./app.py
+     # wait to deploy on localhost
      ```
 
 2. **Navigate to the app directory:**
    ```bash
    cd app
+   use flutter plugin vscode to build for any platform
 
 ![Backend Flow](app.png)
