@@ -1,0 +1,114 @@
+
+--- CO2 Conversion ---
+RF:
+  Optimal features: 23
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, SBFE, SBD, CTC, CTH, RTC, RTH, RHC, T, P, WHSV, CIRMW, H2/CO2, PS, PC
+
+BR:
+  Optimal features: 23
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, SBFE, SBD, CTC, CTH, RTC, RTH, RHC, T, P, WHSV, CIRMW, H2/CO2, PS, PC
+
+GBDT:
+  Optimal features: 23
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, SBFE, CTC, CTH, RTC, RPB, RTH, RHC, T, P, WHSV, CIRMW, H2/CO2, PS, PC
+
+LGBM:
+  Optimal features: 21
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, SBD, CTC, CTH, RTC, RTH, RHC, T, P, WHSV, CIRMW, H2/CO2, PS, PC
+
+XGB:
+  Optimal features: 23
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, SBD, CTC, CTH, RTC, RPB, RTH, RHC, T, P, WHSV, CIRMW, H2/CO2, PS, PC
+
+CB:
+  Optimal features: 24
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, SBFE, SBD, CTC, CTH, RTC, RPB, RTH, RHC, T, P, WHSV, CIRMW, H2/CO2, PS, PC
+
+
+--- CH4 Selectivity ---
+RF:
+  Optimal features: 24
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, SBFE, SBD, CTC, CTH, RTC, RPB, RTH, RHC, T, P, WHSV, CIRMW, H2/CO2, PS, PC
+
+BR:
+  Optimal features: 24
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, SBFE, SBD, CTC, CTH, RTC, RPB, RTH, RHC, T, P, WHSV, CIRMW, H2/CO2, PS, PC
+
+GBDT:
+  Optimal features: 21
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, SBFE, CTC, CTH, RTC, RPB, RTH, RHC, T, WHSV, CIRMW, PS, PC
+
+LGBM:
+  Optimal features: 21
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, CTC, CTH, RTC, RPB, RTH, RHC, T, P, WHSV, CIRMW, H2/CO2, PS
+
+XGB:
+  Optimal features: 22
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, SBFE, CTC, CTH, RTC, RPB, RTH, RHC, T, WHSV, CIRMW, H2/CO2, PS, PC
+
+CB:
+  Optimal features: 19
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, CTC, CTH, RTC, RTH, RHC, T, WHSV, CIRMW, H2/CO2, PC
+
+
+--- CH4 Yield ---
+RF:
+  Optimal features: 22
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, SBD, CTC, CTH, RTC, RTH, RHC, T, P, WHSV, CIRMW, H2/CO2, PS, PC
+
+BR:
+  Optimal features: 24
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, SBFE, SBD, CTC, CTH, RTC, RPB, RTH, RHC, T, P, WHSV, CIRMW, H2/CO2, PS, PC
+
+GBDT:
+  Optimal features: 22
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, SBD, CTC, CTH, RTC, RPB, RTH, RHC, T, P, WHSV, CIRMW, H2/CO2, PC
+
+LGBM:
+  Optimal features: 24
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, SBFE, SBD, CTC, CTH, RTC, RPB, RTH, RHC, T, P, WHSV, CIRMW, H2/CO2, PS, PC
+
+XGB:
+  Optimal features: 24
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PFE, PD, PW, SAFE, SAD, SAW, SBFE, SBD, CTC, CTH, RTC, RPB, RTH, RHC, T, P, WHSV, CIRMW, H2/CO2, PS, PC
+
+CB:
+  Optimal features: 19
+  Best R²: nan
+  Best RMSE: nan
+  Selected: ACFE, ACD, ACW, PD, PW, SAFE, SAD, SAW, CTC, CTH, RTC, RTH, RHC, T, P, WHSV, CIRMW, H2/CO2, PC
+
